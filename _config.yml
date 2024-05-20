@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 夜半梦醒
+title: Read & Write
 subtitle: '随便写点东西~'
-description: ''
-keywords: '读书,写字'
+description: '读书笔记，写作练习'
+keywords: '读书,写作'
 author: hefengbao
 language: zh-CN
 timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://hefengbao.github.io/fable
+url: https://hefengbao.github.io/read-write
 root: /fable/
 permalink: :title-:year:month:day/
 permalink_defaults:
@@ -104,5 +104,5 @@ theme: landscape
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: git@github.com:hefengbao/fable.git
+  repo: git@github.com:hefengbao/read-write.git
   branch: gh-pages
