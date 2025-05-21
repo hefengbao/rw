@@ -22,7 +22,7 @@ export default defineConfig({
     },
     footer: {
       message: '博学之，审问之，慎思之，明辨之，笃行之。',
-      copyright: 'Copyright © 2025 ♥贺丰宝♥'
+      copyright: `Copyright © 2018-${new Date().getFullYear()} ♥贺丰宝♥`
     },
     docFooter: {
       prev: '上一页',

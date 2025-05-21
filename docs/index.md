@@ -6,6 +6,9 @@ hero:
   name: "读 & 写"
   text: "读书笔记、写作练习"
   tagline: "学而不思则罔，思而不学则殆。"
+  image:
+    src: ./NowInLife.jpg
+    alt: NowInLife
   actions:
     - theme: brand
       text: 读书
