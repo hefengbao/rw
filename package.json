@@ -5,7 +5,7 @@
     "docs:preview": "vitepress preview docs"
   },
   "devDependencies": {
-    "vitepress": "^1.6.3"
+    "vitepress": "^2.0.0-alpha.19"
   },
   "dependencies": {
     "vitepress-plugin-comment-with-giscus": "^1.1.15",
